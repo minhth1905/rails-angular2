@@ -7,6 +7,10 @@ The Angular 2 app lives in the ng-app folder. ng-app/\*.ts is compiled
 to public/\*.js using tsc -w via npm start. See package.json for
 details.
 
+# Develope
+- write Angular 2 app to ng-app folder
+- write Angular 2 html file and css file to public folder
+
 # Installation
 
 * bundle install
